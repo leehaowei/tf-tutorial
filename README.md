@@ -6,7 +6,8 @@
 - [tfenv](https://github.com/tfutils/tfenv)
 
 ### Terraform Provider Resource Documentation
-- [aws](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)
+- [aws_instance](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)
+- [aws_security_group](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group)
 - [linode](https://registry.terraform.io/providers/linode/linode/latest/docs/resources/instance)
 
 ### Potential Error
