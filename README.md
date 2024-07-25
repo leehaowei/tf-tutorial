@@ -40,3 +40,7 @@ needs to be recompiled to support the latest protocol...
     ```
 - Solution Reference:
     [苹果M1上的Terraform间歇性错误](https://cloud.tencent.com/developer/ask/sof/107136125)
+
+### Terms
+1. arn (amazon resource name)
+- a string that uniquely identifies an AWS resource
