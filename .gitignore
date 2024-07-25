@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# IDE
+.vscode
+
+# Local
+.local/
+
+# Infrastructure As Code
+iac/.terraform
+iac/terraform.tfstate
+iac/terraform.tfstate.backup
+iac/.envrc
